@@ -106,7 +106,8 @@
     <td><img src="https://github.com/user-attachments/assets/f45a426f-d5ca-4ccd-b819-d08702e5aabd" alt="의견 트리 상세 페이지 스크린샷" width="400"/></td>
   </tr>
   <tr>
-    <td align="center"><strong>회원가입,로그인 페이지</strong></td>
+    <td align="center"><strong>회원가입 페이지</strong></td>
+    <td align="center"><strong>로그인 페이지</strong></td>
     <td align="center"><strong>게시글 작성 페이지</strong></td>
   </tr>
   <tr>
