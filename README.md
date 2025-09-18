@@ -92,3 +92,26 @@
 - **성능 최적화 달성**: 게시글 트리 구조의 로딩 속도 저하 문제를 해결하기 위해 **Redis와 페이지네이션을 도입하여 로딩 속도를 93.44% 향상**시켰습니다.
 - **성공적인 MVP 출시**: 목표 기간 내에 **기획했던 핵심 기능의 90% 이상을 구현**하여 완성도 높은 MVP를 출시하는 데 성공했습니다.
 - **체계적인 협업 시스템 구축**: **Git 기반의 코드 형상 관리**와 **Notion을 통한 업무 현황 관리 체계**를 구축하여 효율적인 팀워크를 이끌었습니다.
+
+
+## 🖼️ 서비스 미리보기 (Service Preview)
+
+<table>
+  <tr>
+    <td align="center"><strong>메인 페이지</strong></td>
+    <td align="center"><strong>의견 트리 상세 페이지</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6a21c2f8-8515-4e9a-a991-0fb494cc28f9" alt="메인 페이지 스크린샷" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f45a426f-d5ca-4ccd-b819-d08702e5aabd" alt="의견 트리 상세 페이지 스크린샷" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>회원가입,로그인 페이지</strong></td>
+    <td align="center"><strong>게시글 작성 페이지</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2ffbd400-b018-42be-9b1f-3c845a34fe5b" alt="회원가입 페이지 스크린샷" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/75d791a4-392c-4dc8-9476-37791a2b04ad" alt="로그인 페이지 스크린샷" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cc08d88f-a3e4-440d-bd9f-15ac048a5982" alt="게시글 작성 페이지 스크린샷" width="400"/></td>
+  </tr>
+</table>
