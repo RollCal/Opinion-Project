@@ -70,7 +70,7 @@
 
 ## 🔗 관련 링크
 
-- **🎨 Figma (UI/UX Design)** : [[Figma 링크를 여기에 붙여넣으세요](https://www.figma.com/board/ttny8aA9hGPNMAqGZqPxa6/Opinion?node-id=0-1&p=f&t=DpxtSQy7rRQJUUfY-0)]
+- **🎨 Figma (UI/UX Design)** : [[Figma - opinion](https://www.figma.com/board/ttny8aA9hGPNMAqGZqPxa6/Opinion?node-id=0-1&p=f&t=DpxtSQy7rRQJUUfY-0)]
 - **👩‍💻 Front-End Repository** : [https://github.com/RollCal/onion_front](https://github.com/RollCal/onion_front)
 - **👨‍💻 Back-End Repository** : [https://github.com/RollCal/onion](https://github.com/RollCal/onion)
 
